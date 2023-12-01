@@ -1,0 +1,254 @@
+@media (max-width: 1975px){
+    [class*="__container"]{
+        max-width: 1440px;
+    }
+    .textDescription h1{
+        font-size: 70px;
+    }
+    .textDescription h3{
+        font-size: 20px;
+    }
+    .btn:link,
+    .btn:visited{
+        font-size: 20px;
+    }
+    .OneDevice{
+        font-size: 70px
+    }
+    .solution__list{
+        font-size: 20px;
+    }
+    .solutin__photo img{
+        width: 400px;
+    }
+    .textDescription{
+        padding-right: 50px;
+    }
+    .application h3{
+        font-size: 30px;
+    }
+    .social_network h3{
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 1640px){
+    [class*="__container"]{
+        max-width: 1024px;
+    }
+    .menu__list{
+        display: flex;
+        justify-content: center;
+    }
+    .menu__item{
+        margin-right: 30px;
+    }
+    .header__logo{
+        flex: 0 0 80px;
+        overflow: hidden;
+    }
+    .image__device img{
+        width: 400px;
+    }
+    .textDescription{
+        padding-right: 0px;
+    }
+    .textDescription h1{
+        font-size: 50px;
+    }
+    .textDescription h3{
+    line-height: 35px;
+    } 
+    .OneDevice {
+        font-size: 50px;
+    }
+    .main__container{
+        padding-top: 60px;
+    }
+    .solution__list{
+        line-height: 40px;
+        
+    }
+    .image__device img{
+        padding-top: 70px;
+        width: 300px;
+    }
+    .main2__container{
+        padding-bottom: 70px;
+    }
+    .application h3{
+        font-size: 20px;
+    }
+    .social_network h3{
+        font-size: 20px;
+    }
+    .application_icon img{
+        width: 130px;
+        height: 50px;
+    }
+    .social_network_icon img{
+        width: 70px;
+    }
+}
+
+@media (max-width: 1024px){
+    [class*="__container"]{
+        max-width: 768px;
+    }
+    .menu__item{
+        font-size: 12px
+    }
+    .shoping__cart img{
+        width: 50px;
+    }
+
+    .textDescription h1{
+        padding-right: 0px;
+        font-size: 27px;
+    }
+    .textDescription h3{
+        padding-right: 30px;
+        font-size: 15px;
+    line-height: 30px;
+    } 
+    .btn:link,
+    .btn:visited{
+        font-size: 15px;
+    }
+    .image__device img{
+        padding-top: 30px;
+        width: 300px;
+    }
+    .textDescription h3{
+        line-height: 25px;
+    } 
+    .OneDevice {
+            font-size: 30px;
+            display: flex;
+            justify-content: center;
+    }
+    .solutin__photo img{
+        width: 300px;
+    }
+    .main2__container{
+        padding-top: 70px;
+    }
+    .OneDevice{
+        margin-right: 0px;
+    }
+    .solution__list{
+        padding-top: 0px;
+        padding-right: 30px;
+        font-size: 15px;
+    }
+    .application_icon img{
+        width: 100px;
+        height: 30px;
+    }
+    .social_network_icon img{
+        width: 40px;
+        padding-right: 2px;
+    }
+.application_icon_link{
+    padding-right: 0px;
+}
+    .social_network_icon_link{
+        padding-right: 7px;
+    }
+    .application h3{
+        padding-right: 3px;
+    }
+    .social_network h3{
+        padding-right: 15px;
+    }
+    
+}
+
+@media (max-width: 768px){
+    [class*="__container"]{
+        max-width: 425px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    
+    .menu__item{
+        font-size: 7px
+    }
+    .shoping__cart img{
+        width: 30px;
+    }
+    .header__logo{
+        flex: 0 0 58px
+    }
+    .header__logo img{
+    width: 200px;
+    }
+    .Description{
+        padding-top: 20px;
+    }
+
+    .textDescription h1{
+        padding-right: 0px;
+        font-size: 16px;
+    }
+    .textDescription h3{
+        padding-top: 10px;
+        padding-bottom: 15px;
+        padding-right: 10px;
+        font-size: 10px;
+    } 
+    .btn:link,
+    .btn:visited{
+        font-size: 10px;
+    }
+    .image__device img{
+        padding-top: 30px;
+        width: 150px;
+    }
+    .textDescription h3{
+        line-height: 20px;
+    } 
+    .OneDevice {
+            font-size: 16px;
+            display: flex;
+            justify-content: center;
+    }
+    .solutin__photo img{
+        width: 150px;
+        padding-top: 40px;
+    }
+    .main__container{
+        padding: 30px 20px 75px 20px;
+    }
+    .main2__container{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .OneDevice{
+        padding-bottom: 30px;
+        margin-right: 0px;
+    }
+    .solution__list{
+        padding-top: 0px;
+        padding-right: 15px;
+        font-size: 10px;
+        line-height: 30px;
+    }
+
+.application_icon_link{
+    padding-right: 0px;
+}
+    .social_network_icon_link{
+        padding-right: 7px;
+    }
+    .application h3{
+        font-size: 12px;
+    }
+    .social_network h3{
+        font-size: 12px;
+    }
+    .main2__container li::before {
+        padding: 10px 12px;
+        border-radius: 50px;
+    }
+}
