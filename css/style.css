@@ -268,17 +268,18 @@ footer{
 }
 
 .HowToUse_video iframe {
-        width: 60%;
-        height: 45vh;
-        margin: 0 auto;
-        display: block;
-        text-align: center;
-        padding: 50px 50px 50px 50px;
-        margin-top: 50px;
-        margin-bottom: 50px;
-        border-radius: 30px;
-        background-color: #176B87;
+    width: 60%;
+    height: 45vh;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    padding: 50px 50px 50px 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    background-color: #176B87;
 }
+
 
 
 /*_______________Image Sviper____________________________*/
@@ -330,6 +331,7 @@ display: flex;
 flex-wrap:wrap-reverse;
 justify-content: center;
 justify-content: space-between;
+flex-wrap: nowrap;
     margin-bottom: 20px;
     margin-top: 20px;
 }
@@ -397,4 +399,5 @@ justify-content: space-between;
     color: #4c51f9;
     cursor: not-allowed;
 }
+
 
