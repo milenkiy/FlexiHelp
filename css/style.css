@@ -245,6 +245,11 @@ footer{
     font-weight: lighter;
 }
 
+.application_icon img{
+    width: 255px;
+    height: 85px;
+}
+
 .application h3{
     padding-right: 30px;
     font-size: 40px;
