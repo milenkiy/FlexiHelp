@@ -232,6 +232,11 @@ footer{
     align-items: center;
 }
 
+.application_icon img{
+    width: 255px;
+    height: 85px;
+}
+
 .social_network{
     display: flex;
     padding-top: 15px;
@@ -243,11 +248,6 @@ footer{
     font-size: 40px;
     color: #64CCC5;
     font-weight: lighter;
-}
-
-.application_icon img{
-    width: 255px;
-    height: 85px;
 }
 
 .application h3{
