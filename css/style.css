@@ -399,10 +399,18 @@ flex-wrap: nowrap;
 .add_to_cart:active {
     background-color: #176B87;
 }
+
+
+
 .add_to_cart:disabled {
     background-color: #04364A;
     color: #4c51f9;
     cursor: not-allowed;
 }
 
-
+.swiper-button-prev,
+.swiper-button-next {
+    width: 20px; /* Нова ширина кнопок */
+    height: 20px; /* Нова висота кнопок */
+    /* Тут можна додати інші стилі, які ви хочете застосувати */
+}
