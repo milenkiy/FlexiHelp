@@ -613,3 +613,25 @@
     padding-right: 2px;
 }
 
+.main3_container2{
+    display: flex;
+    background-color: #04364A;
+    border-radius:60px;
+}
+
+.btn:link,
+.btn:visited {
+    font-size: 10px;
+    padding: 10px 25px;
+}
+
+.menu__link{
+    text-decoration: none;
+}
+
+.application_icon_link1 img{
+    height: 24px;
+    width: 80px;
+}
+
+}
